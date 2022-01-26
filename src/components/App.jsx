@@ -15,7 +15,7 @@ function App(){
     <Card name="Youtube" icon="youtube" url="https://www.youtube.com/channel/UCx552qBEz4esUv5YWqh7RmQ"/>
     <Card name="Instagram" icon="instagram" url="https://www.instagram.com/siddhi.tech_/?utm_medium=copy_link"/>
     <Card name="Twitter" icon="twitter" url="https://twitter.com/SiddhiB6"/>
-    <Card name="DEV to" icon="laptop" url="https://dev.to/siddhi244"/>
+    <Card name="dev.to" icon="laptop" url="https://dev.to/siddhi244"/>
 
     </div>
     </div>
