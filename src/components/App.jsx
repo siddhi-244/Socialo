@@ -16,6 +16,7 @@ function App(){
     <Card name="Instagram" icon="instagram" url="https://www.instagram.com/siddhi.tech_/?utm_medium=copy_link"/>
     <Card name="Twitter" icon="twitter" url="https://twitter.com/SiddhiB6"/>
     <Card name="dev.to" icon="laptop" url="https://dev.to/siddhi244"/>
+    <Card name="Buy Me a Coffee" icon="coffee" url="https://www.buymeacoffee.com/SiddhiBh"/>
 
     </div>
     </div>
