@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Linktree-Clone-react/static/js/main.8d3d9939.js",
-    "static/media/profile.png": "/Linktree-Clone-react/static/media/profile.fe1cad309977ef0cce52.png",
-    "index.html": "/Linktree-Clone-react/index.html",
-    "main.8d3d9939.js.map": "/Linktree-Clone-react/static/js/main.8d3d9939.js.map"
+    "main.js": "/Socialo/static/js/main.7dba9ced.js",
+    "static/media/profile.png": "/Socialo/static/media/profile.fe1cad309977ef0cce52.png",
+    "index.html": "/Socialo/index.html",
+    "main.7dba9ced.js.map": "/Socialo/static/js/main.7dba9ced.js.map"
   },
   "entrypoints": [
-    "static/js/main.8d3d9939.js"
+    "static/js/main.7dba9ced.js"
   ]
 }
